@@ -7,7 +7,7 @@ const string1 = "My favorite dessert is jello";
 
 // Your code here...
 
-string1.indexOf("j");
+ console.log(string1.indexOf("j"));
 
 
 /*******************************************
